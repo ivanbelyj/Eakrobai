@@ -289,8 +289,20 @@
         "com.zor.utility-ai": "https://github.com/ZorPastaman/UtilityAI.git"
       }
     },
+    "ivanbelyj.common-ui": {
+      "version": "file:ivanbelyj.common-ui",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "ivanbelyj.common-utilities": {
       "version": "file:ivanbelyj.common-utilities",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "ivanbelyj.inventory": {
+      "version": "file:ivanbelyj.inventory",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
