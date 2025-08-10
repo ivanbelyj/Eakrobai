@@ -42,22 +42,6 @@ git submodule update --remote --merge
 
 ## Workflow
 
-### Ветвление
-Варианты формата именования веток:
-- `<тип>/<номер задачи>-<описание>` (предпочтительно)
-- `<тип>/<описание>`
-- `<описание>` (допустимо)
-
-Тип - `feature` или `bug-fix` (другие типы на практике реже).
-
-Номер задачи берется из таск-борда в Taiga.
-
-**Примеры**:
-```
-feature/42-add-crafting-system
-bug-fix/128-fix-npc-pathfinding-error
-```
-
 ### Коммиты
 В Commit messages используется английский, желательно глагол в повелительном наклонении (т.е. `Add crafting system`, а не `Crafting system` или `Added crafting system`).
 
