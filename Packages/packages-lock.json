@@ -307,6 +307,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "ivanbelyj.lifecycle-parameters": {
+      "version": "file:ivanbelyj.lifecycle-parameters",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,

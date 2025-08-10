@@ -16,3 +16,6 @@
 [submodule "Packages/ivanbelyj.inventory"]
 	path = Packages/ivanbelyj.inventory
 	url = https://github.com/ivanbelyj/Inventory
+[submodule "Packages/ivanbelyj.lifecycle-parameters"]
+	path = Packages/ivanbelyj.lifecycle-parameters
+	url = https://github.com/ivanbelyj/LifecycleParameters.git
