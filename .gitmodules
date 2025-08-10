@@ -1,6 +1,6 @@
 [submodule "Packages/ivanbelyj.afterglow"]
 	path = Packages/ivanbelyj.afterglow
-	url = git@github.com:ivanbelyj/Afterglow.git
+	url = https://github.com/ivanbelyj/Afterglow.git
 [submodule "Packages/com.zor.utility-ai"]
 	path = Packages/com.zor.utility-ai
 	url = https://github.com/ZorPastaman/UtilityAI.git
@@ -10,3 +10,9 @@
 [submodule "Packages/ivanbelyj.common-utilities"]
 	path = Packages/ivanbelyj.common-utilities
 	url = https://github.com/ivanbelyj/CommonUtilitiesUnity.git
+[submodule "Packages/ivanbelyj.common-ui"]
+	path = Packages/ivanbelyj.common-ui
+	url = https://github.com/ivanbelyj/CommonUI
+[submodule "Packages/ivanbelyj.inventory"]
+	path = Packages/ivanbelyj.inventory
+	url = https://github.com/ivanbelyj/Inventory
