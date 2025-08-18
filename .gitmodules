@@ -19,3 +19,6 @@
 [submodule "Packages/ivanbelyj.lifecycle-parameters"]
 	path = Packages/ivanbelyj.lifecycle-parameters
 	url = https://github.com/ivanbelyj/LifecycleParameters.git
+[submodule "Packages/ivanbelyj.worldcore"]
+	path = Packages/ivanbelyj.worldcore
+	url = https://github.com/ivanbelyj/WorldCore.git
